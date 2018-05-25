@@ -1,0 +1,4 @@
+for 0.99.73
+
+- remove Tidal fix content
+- change irq-archphile path to /usr/local/bin
