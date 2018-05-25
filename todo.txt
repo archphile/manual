@@ -1,4 +1,6 @@
-for 0.99.73
+for 0.99.73 alpha
 
 - remove Tidal fix content
 - change irq-archphile path to /usr/local/bin
+- add squeezelite section
+- refer to perfcheck command
