@@ -1,6 +1,8 @@
+
+------------------------
 V 12.2 - 28/05/2018
 
-- added forum paragraph in FAQ
+- added paragraph about forums in FAQ
 
 ------------------------
 V 12.1 - 28/05/2018
