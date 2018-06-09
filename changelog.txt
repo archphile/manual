@@ -1,15 +1,21 @@
 ------------------------
-V 12.3 - 03/06/2018
+V 12.4 - 2018-06-09
+
+- modified faq section (forums)
+- modified date format
+
+------------------------
+V 12.3 - 2018-06-03
 
 - added a paragraph in webradio section
 
 ------------------------
-V 12.2 - 28/05/2018
+V 12.2 - 2018-05-28
 
 - added paragraph about forums in FAQ
 
 ------------------------
-V 12.1 - 28/05/2018
+V 12.1 - 2018-05-28
 
 - added a paragraph for greek webradios (ch. 12.3)
 
