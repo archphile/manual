@@ -1,4 +1,9 @@
 ------------------------
+V 12.5 - 2018-07-08
+
+- fixed typos in roonbridge section
+
+------------------------
 V 12.4 - 2018-06-09
 
 - modified faq section (forums)
