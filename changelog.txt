@@ -1,4 +1,9 @@
 ------------------------
+V 12.6 - 2018-07-23
+
+- added ffmpeg note in tidal section
+
+------------------------
 V 12.5 - 2018-07-08
 
 - fixed typos in roonbridge section
