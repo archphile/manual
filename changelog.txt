@@ -1,31 +1,37 @@
 ------------------------
-V 12.6 - 2018-07-23
+V 0.12.7 - 2018-09-17
+
+- minor changes in order to be compliant with the new website
+- added a note on bluetooth section
+
+------------------------
+V 0.12.6 - 2018-07-23
 
 - added ffmpeg note in tidal section
 
 ------------------------
-V 12.5 - 2018-07-08
+V 0.12.5 - 2018-07-08
 
 - fixed typos in roonbridge section
 
 ------------------------
-V 12.4 - 2018-06-09
+V 0.12.4 - 2018-06-09
 
 - modified faq section (forums)
 - modified date format
 
 ------------------------
-V 12.3 - 2018-06-03
+V 0.12.3 - 2018-06-03
 
 - added a paragraph in webradio section
 
 ------------------------
-V 12.2 - 2018-05-28
+V 0.12.2 - 2018-05-28
 
 - added paragraph about forums in FAQ
 
 ------------------------
-V 12.1 - 2018-05-28
+V 0.12.1 - 2018-05-28
 
 - added a paragraph for greek webradios (ch. 12.3)
 
