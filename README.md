@@ -4,7 +4,7 @@ The purpose of this document is to clarify most of the stuff needed in order to 
 
 The pdf will always be found in the following url:
 
-http://archphile.org/manual/archphile-manual.pdf
+https://archphile.org/manual/archphile-manual.pdf
 
 
 This document is licensed under CC BY-NC-SA 4.0. For More information about this license, please visit the link below:
