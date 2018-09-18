@@ -1,4 +1,9 @@
 ------------------------
+V 0.12.8 - 2018-09-18
+
+- corrected ntp command in page 6
+
+------------------------
 V 0.12.7 - 2018-09-17
 
 - minor changes in order to be compliant with the new website
