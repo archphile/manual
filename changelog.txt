@@ -1,4 +1,9 @@
 ------------------------
+V 0.12.9 - 2019-01-29
+
+- corrected typos in FAQ section
+
+------------------------
 V 0.12.8 - 2018-09-18
 
 - corrected ntp command in page 6
