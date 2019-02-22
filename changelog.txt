@@ -1,4 +1,9 @@
 ------------------------
+V 0.13.10 - 2019-02-22
+
+- changes for upcoming version 0.99.8
+
+------------------------
 V 0.12.10 - 2019-02-20
 
 - fixed the penguin.eu link in webradios section
