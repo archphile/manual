@@ -1,7 +1,7 @@
 ------------------------
-V 0.13.10 - 2019-02-22
+V 0.12.11 - 2019-03-25
 
-- changes for upcoming version 0.99.8
+- modified (wrong) content of hd-idle section
 
 ------------------------
 V 0.12.10 - 2019-02-20
