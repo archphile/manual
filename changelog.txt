@@ -1,3 +1,9 @@
+V 0.13.1 - 2020-04-10
+
+- fixed a typo
+- revised faq
+
+------------------------
 V 0.13 - 2020-04-10
 
 - major update for compatibility with 1.19 beta
