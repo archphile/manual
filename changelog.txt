@@ -1,7 +1,11 @@
+V 0.13 - 2020-04-10
+
+- major update for compatibility with 1.19 beta
+
 ------------------------
 V 0.12.12 - 2019-06-19
 
-- Fixed 11.1.3 and 11.2.3 headlines
+- fixed 11.1.3 and 11.2.3 headlines
 - added a parenthesis in mpd-archphile-sacd section
 
 ------------------------

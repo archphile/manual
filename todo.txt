@@ -1,6 +1,0 @@
-Todo:
-
-- add squeezelite section
-- add local cover art
-- add mpdscribble
-- add brutefir
