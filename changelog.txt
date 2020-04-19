@@ -1,3 +1,8 @@
+V 0.13.5 - 2020-04-19
+
+- Revised I2S DAC section
+
+------------------------
 V 0.13.4 - 2020-04-17
 
 - revised for RPI4 support
