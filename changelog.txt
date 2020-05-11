@@ -1,3 +1,9 @@
+
+V 0.13.6 - 2020-05-11
+
+- Fixed a typo in upmpdcli section
+
+------------------------
 V 0.13.5 - 2020-04-19
 
 - Revised I2S DAC section
