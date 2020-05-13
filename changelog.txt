@@ -1,4 +1,9 @@
 
+V 0.13.7 - 2020-05-13
+
+- fixed 2 minor typos
+
+------------------------
 V 0.13.6 - 2020-05-11
 
 - Fixed a typo in upmpdcli section
